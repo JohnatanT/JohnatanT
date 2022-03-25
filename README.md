@@ -31,6 +31,7 @@
 <code><img height="40" src="https://github.com/JohnatanT/JohnatanT/blob/main/img/postgres.png" title="HTML"></code>
 <code><img height="40" src="https://github.com/JohnatanT/JohnatanT/blob/main/img/aws.png" title="HTML"></code>
 <code><img height="40" src="https://github.com/JohnatanT/JohnatanT/blob/main/img/se.png" title="HTML"></code>
+<code><img height="40" src="https://github.com/JohnatanT/JohnatanT/blob/main/img/laravel.png" title="HTML"></code>
 
   </div>
   </p>
